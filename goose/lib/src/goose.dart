@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
+import 'package:flame/sprite.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -13,7 +14,7 @@ import 'dart:math' as math;
 enum PlayState { welcome, playing, gameOver, won }
 
 class Goose extends FlameGame
-    with HasCollisionDetection, KeyboardEvents, TapDetector {
+    with HasCollisionDetection, HasKeyboardHandlerComponents, TapDetector {
   Goose()
       : super(
           camera: CameraComponent.withFixedResolution(
@@ -26,6 +27,8 @@ class Goose extends FlameGame
   final rand = math.Random();
   double get width => size.x;
   double get height => size.y;
+
+  late Cloudberry _cb;
 
   late PlayState _playState;
   PlayState get playState => _playState;
@@ -48,7 +51,11 @@ class Goose extends FlameGame
     super.onLoad();
 
     camera.viewfinder.anchor = Anchor.topLeft;
-
+    
+    _cb = Cloudberry(
+      // position: Vector2(128, canvasSize.y - 70),
+      position: Vector2(128, 128),
+    );
     world.add(PlayArea());
 
     playState = PlayState.welcome; // Add from here...
@@ -56,39 +63,10 @@ class Goose extends FlameGame
 
   void startGame() {
     if (playState == PlayState.playing) return;
-
-    world.removeAll(world.children.query<Ball>());
-    world.removeAll(world.children.query<Bat>());
-    world.removeAll(world.children.query<Brick>());
-
     playState = PlayState.playing;
     score.value = 0;
 
-    world.add(Ball(
-        // Add from here...
-        difficultyModifier: difficultyModifier,
-        radius: ballRadius,
-        position: size / 2,
-        velocity: Vector2((rand.nextDouble() - 0.5) * width, height * 0.2)
-            .normalized()
-          ..scale(height / 4)));
-
-    world.add(Bat(
-        // Add from here...
-        size: Vector2(batWidth, batHeight),
-        cornerRadius: const Radius.circular(ballRadius / 2),
-        position: Vector2(width / 2, height * 0.95))); // To here
-
-    world.addAll([
-      for (var i = 0; i < brickColors.length; i++)
-        for (var j = 1; j <= 5; j++)
-          Brick(
-              Vector2(
-                (i + 0.5) * brickWidth + (i + 1) * brickGutter,
-                (j + 2.0) * brickHeight + j * brickGutter,
-              ),
-              brickColors[i]),
-    ]);
+    world.add(_cb);
   }
 
   @override
@@ -97,22 +75,6 @@ class Goose extends FlameGame
     if (playState == PlayState.welcome) {
       startGame();
     }
-  }
-
-  @override // Add from here...
-  KeyEventResult onKeyEvent(
-      RawKeyEvent event, Set<LogicalKeyboardKey> keysPressed) {
-    super.onKeyEvent(event, keysPressed);
-    switch (event.logicalKey) {
-      case LogicalKeyboardKey.arrowLeft:
-        world.children.query<Bat>().first.moveBy(-batStep);
-      case LogicalKeyboardKey.arrowRight:
-        world.children.query<Bat>().first.moveBy(batStep);
-      case LogicalKeyboardKey.space: // Add from here...
-      case LogicalKeyboardKey.enter:
-        startGame();
-    }
-    return KeyEventResult.handled;
   }
 
   @override
