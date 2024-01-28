@@ -289,3 +289,337 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 258.499328 seconds.
+  path: Assets/running-squirrel.png
+  artifactKey: Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/running-squirrel.png using Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e049f7e2f9fffd1010ccdf74d0bb354') in 0.147928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 188.610882 seconds.
+  path: Assets/running-squirrel.png
+  artifactKey: Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/running-squirrel.png using Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6143702008dba55d04edaf5cb8660813') in 0.024584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 158.269913 seconds.
+  path: Assets/running-squirrel.png
+  artifactKey: Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/running-squirrel.png using Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78adc26bd2c77c34525086b16fd59e37') in 0.017675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.934114 seconds.
+  path: Assets/running-squirrel.png
+  artifactKey: Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/running-squirrel.png using Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48d3cbe049f7e732a596fe3a2dd3cdb') in 0.009533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 200.519145 seconds.
+  path: Assets/running-squirrel.png
+  artifactKey: Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/running-squirrel.png using Guid(810a8df833a9a4bc6bbf829a1a7c1495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330787245436609029b59f340649d1bb') in 0.022937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 180.469241 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(16bcd1f4577474927adf3422ccf8ebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(16bcd1f4577474927adf3422ccf8ebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e7e07575e139af6eba13ae8deb83b1') in 0.003324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.886372 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.001541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.202011 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(8833890a6a7ef4fcd8cb338365af4a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(8833890a6a7ef4fcd8cb338365af4a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ed77627be0e9404e21daa7f78a904f') in 0.735628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 677.307730 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(f5db502a12789428b8c91409fb2c8121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(f5db502a12789428b8c91409fb2c8121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d33b15bf679d454b77673eda7ee23a') in 0.001456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.257246 seconds.
+  path: Assets/Animations/Running.anim
+  artifactKey: Guid(e2e647e27d5d04cc3bd75c958b16c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Running.anim using Guid(e2e647e27d5d04cc3bd75c958b16c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c67d3f16faa5a99956b7843f02570e7') in 0.205760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.625479 seconds.
+  path: Assets/Animations/running-squirrel_0.controller
+  artifactKey: Guid(298037c5f16f646d4a64128340aaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/running-squirrel_0.controller using Guid(298037c5f16f646d4a64128340aaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dca8de9a40749b8282cc45515ebc199') in 0.002513 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002138 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b367000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Domain Reload Profiling:
+	ReloadAssembly (814ms)
+		BeginReloadAssembly (147ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (594ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (208ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (170ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4036 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (149.6 KB). Loaded Objects now: 4512.
+Memory consumption went from 334.1 MB to 334.0 MB.
+Total: 2.990750 ms (FindLiveObjects: 0.154208 ms CreateObjectMapping: 0.064375 ms MarkObjects: 2.656167 ms  DeleteObjects: 0.115417 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002583 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b367000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Domain Reload Profiling:
+	ReloadAssembly (738ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (575ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (261ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (171ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4036 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (149.4 KB). Loaded Objects now: 4515.
+Memory consumption went from 338.4 MB to 338.3 MB.
+Total: 3.064041 ms (FindLiveObjects: 0.129708 ms CreateObjectMapping: 0.059875 ms MarkObjects: 2.763791 ms  DeleteObjects: 0.110000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002561 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b367000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Domain Reload Profiling:
+	ReloadAssembly (749ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (586ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (276ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4036 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (149.5 KB). Loaded Objects now: 4518.
+Memory consumption went from 342.7 MB to 342.6 MB.
+Total: 3.007667 ms (FindLiveObjects: 0.128875 ms CreateObjectMapping: 0.060833 ms MarkObjects: 2.698583 ms  DeleteObjects: 0.118416 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 415.952413 seconds.
+  path: Assets/Animations/running-squirrel_0.controller
+  artifactKey: Guid(298037c5f16f646d4a64128340aaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/running-squirrel_0.controller using Guid(298037c5f16f646d4a64128340aaa214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222d82e8e4b377ff4aaeb9d5c0eb6479') in 0.012717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.745901 seconds.
+  path: Assets/Animations/running-squirrel.controller
+  artifactKey: Guid(5b583ee0cab5b4380b35a45c89038d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/running-squirrel.controller using Guid(5b583ee0cab5b4380b35a45c89038d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe1a07ba0ca705db11a5f65b3e26169') in 0.001552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.043706 seconds.
+  path: Assets/Animations/Running.anim
+  artifactKey: Guid(e2e647e27d5d04cc3bd75c958b16c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Running.anim using Guid(e2e647e27d5d04cc3bd75c958b16c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5771ac8017bd18158cda1dfc8ee9a753') in 0.002050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.597197 seconds.
+  path: Assets/Animations/RunningSquirrel.anim
+  artifactKey: Guid(a1fcfac17ed8a45288b8ae1fd702a6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/RunningSquirrel.anim using Guid(a1fcfac17ed8a45288b8ae1fd702a6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4dc8b0011319723a9e664e6c2be7b6') in 0.002453 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002162 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b367000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/cinnamon/Documents/GitHub/McHacks11/Unity/McHacks/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Domain Reload Profiling:
+	ReloadAssembly (783ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (591ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (201ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (170ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4036 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (149.4 KB). Loaded Objects now: 4521.
+Memory consumption went from 347.1 MB to 346.9 MB.
+Total: 3.113209 ms (FindLiveObjects: 0.141250 ms CreateObjectMapping: 0.062083 ms MarkObjects: 2.793458 ms  DeleteObjects: 0.115750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 188.328695 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(d2ed4a544e610481dab54cf394eadca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(d2ed4a544e610481dab54cf394eadca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fa41d1dc970290c2f9f582e20c904e') in 0.014642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.071433 seconds.
+  path: Assets/Animations/Squirrel.controller
+  artifactKey: Guid(524c8f4db6ab24f40bf671ec868dc151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Squirrel.controller using Guid(524c8f4db6ab24f40bf671ec868dc151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa4fc509287d273d892ec890117300a') in 0.006831 seconds 
