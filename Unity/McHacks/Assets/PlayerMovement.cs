@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
 
     // Add camera follow
-    public Camera cam;
+    // public Camera cam;
     public Vector3 offset; // The distance between the camera and the player
 
     Vector2 movement;
@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // Update the camera position
-        cam.transform.position = transform.position + offset;
+        // cam.transform.position = transform.position + offset;
     }
 
     void FixedUpdate() {
