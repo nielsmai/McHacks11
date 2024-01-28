@@ -14,6 +14,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 topRightLimit;
     private Vector3 bottomLeftLimit;
 
+    public float HeartCount = 3;
+
     // Add camera follow
     // public Camera cam;
     public Vector3 offset; // The distance between the camera and the player
