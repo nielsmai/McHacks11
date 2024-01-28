@@ -14,6 +14,11 @@ public class PlayerMovement : MonoBehaviour
 
     Vector2 movement;
 
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        PlayerPrefs.DeleteAll();
+    }
 
     // Update is called once per frame
     void Update()
