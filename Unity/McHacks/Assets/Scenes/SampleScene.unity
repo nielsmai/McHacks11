@@ -434,3 +434,5 @@ MonoBehaviour:
   moveSpeed: 2
   rb: {fileID: 586488217}
   animator: {fileID: 586488216}
+  cam: {fileID: 519420031}
+  offset: {x: 0, y: 0, z: 0}

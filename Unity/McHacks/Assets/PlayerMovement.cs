@@ -8,6 +8,10 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
 
+    // Add camera follow
+    public Camera cam;
+    public Vector3 offset; // The distance between the camera and the player
+
     Vector2 movement;
 
 
@@ -29,6 +33,9 @@ public class PlayerMovement : MonoBehaviour
         } else if (movement.x > 0) {
             transform.localScale = new Vector3(1, 1, 1);
         }
+
+        // Update the camera position
+        cam.transform.position = transform.position + offset;
     }
 
     void FixedUpdate() {
