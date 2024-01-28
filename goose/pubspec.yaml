@@ -58,9 +58,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  assets:
-    - assets/images/Squirrel.png
-    - assets/images/goose_test.jpeg
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -69,6 +66,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/goose_test.jpeg
+    - assets/images/Squirrel.png
     - assets/images/map.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
