@@ -20,6 +20,12 @@ public class PlayerMovement : MonoBehaviour
 
     Vector2 movement;
 
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        PlayerPrefs.DeleteAll();
+    }
+
     void Start()
     {
         topRightLimit = topRightLimitGameObject.transform.position;
